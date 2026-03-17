@@ -1,0 +1,17 @@
+﻿## Build
+bin/
+obj/
+*.user
+*.suo
+
+## Visual Studio
+.vs/
+*.csproj.user
+
+## Environment
+.env
+appsettings.Development.json
+
+## OS
+.DS_Store
+Thumbs.db
